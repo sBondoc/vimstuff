@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/users/ugrad/2020/winter/sabondoc/eecs111/misc'
-let g:netrw_dirhist_2='/users/ugrad/2020/winter/sabondoc/eecs111/p1/p1/.settings'
-let g:netrw_dirhist_3='/users/ugrad/2020/winter/sabondoc/.vim'
-let g:netrw_dirhist_4='/users/ugrad/2020/winter/sabondoc/eecs111'
-let g:netrw_dirhist_5='/users/ugrad/2020/winter/sabondoc/2020eecs22l'
-let g:netrw_dirhist_6='/users/ugrad/2020/winter/sabondoc/.config'
-let g:netrw_dirhist_7='/users/ugrad/2020/winter/sabondoc/.vim/colors'
