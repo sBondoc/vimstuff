@@ -1,6 +1,6 @@
 
 """
-" Name: chill-dark.vim
+" Name: chill.vim
 """
 
 set background=dark
@@ -10,19 +10,19 @@ if exists('syntax on')
     syntax reset
 endif
 
-let g:colors_name='chill-dark'
+let g:colors_name='chill'
 set t_Co=256
 
 
 " misc
 
-hi ColorColumn      guisp=NONE guifg=NONE    guibg=#3f3f3f ctermfg=NONE ctermbg=238  gui=NONE cterm=NONE
+hi ColorColumn      guisp=NONE guifg=NONE    guibg=#7f7f00 ctermfg=NONE ctermbg=100  gui=NONE cterm=NONE
 hi Conceal          guisp=NONE guifg=NONE    guibg=#00003f ctermfg=NONE ctermbg=17   gui=NONE cterm=NONE
 hi Cursor           guisp=NONE guifg=#3f3f3f guibg=#bfbfbf ctermfg=238  ctermbg=250  gui=NONE cterm=NONE
 hi lCursor          guisp=NONE guifg=#3f3f3f guibg=#bfbfbf ctermfg=238  ctermbg=250  gui=NONE cterm=NONE
 hi CursorIM         guisp=NONE guifg=#3f3f3f guibg=#bfbfbf ctermfg=238  ctermbg=250  gui=NONE cterm=NONE
-hi CursorColumn     guisp=NONE guifg=NONE    guibg=#1f1f1f ctermfg=NONE ctermbg=234  gui=NONE cterm=NONE
-hi CursorLine       guisp=NONE guifg=NONE    guibg=#1f1f1f ctermfg=NONE ctermbg=234  gui=NONE cterm=NONE
+hi CursorColumn     guisp=NONE guifg=NONE    guibg=#3f3f3f ctermfg=NONE ctermbg=238  gui=NONE cterm=NONE
+hi CursorLine       guisp=NONE guifg=NONE    guibg=#3f3f3f ctermfg=NONE ctermbg=238  gui=NONE cterm=NONE
 hi Directory        guisp=NONE guifg=#bfbfbf guibg=NONE    ctermfg=250  ctermbg=NONE gui=NONE cterm=NONE
 hi DiffAdd          guisp=NONE guifg=NONE    guibg=#003f00 ctermfg=NONE ctermbg=22   gui=NONE cterm=NONE
 hi DiffChange       guisp=NONE guifg=NONE    guibg=#3f3f00 ctermfg=NONE ctermbg=58   gui=NONE cterm=NONE
@@ -47,8 +47,8 @@ hi Pmenu            guisp=NONE guifg=#bfbfbf guibg=#3f3f3f ctermfg=250  ctermbg=
 hi PmenuSel         guisp=NONE guifg=#3f3f3f guibg=#bfbf00 ctermfg=238  ctermbg=142  gui=NONE cterm=NONE
 hi PmenuSbar        guisp=NONE guifg=NONE    guibg=#7f7f7f ctermfg=NONE ctermbg=244  gui=NONE cterm=NONE
 hi PmenuThumb       guisp=NONE guifg=NONE    guibg=#bfbfbf ctermfg=NONE ctermbg=250  gui=NONE cterm=NONE
-hi Question         guisp=NONE guifg=NONE    guibg=#1f1f1f ctermfg=NONE ctermbg=234  gui=NONE cterm=NONE
-hi QuickFixLine     guisp=NONE guifg=NONE    guibg=#1f1f1f ctermfg=NONE ctermbg=234  gui=NONE cterm=NONE
+hi Question         guisp=NONE guifg=NONE    guibg=#3f3f3f ctermfg=NONE ctermbg=238  gui=NONE cterm=NONE
+hi QuickFixLine     guisp=NONE guifg=NONE    guibg=#3f3f3f ctermfg=NONE ctermbg=238  gui=NONE cterm=NONE
 hi Search           guisp=NONE guifg=NONE    guibg=#7f7f00 ctermfg=NONE ctermbg=100  gui=NONE cterm=NONE
 hi SpecialKey       guisp=NONE guifg=NONE    guibg=#00003f ctermfg=NONE ctermbg=17   gui=NONE cterm=NONE
 hi SpellBad         guisp=NONE guifg=NONE    guibg=#3f0000 ctermfg=NONE ctermbg=52   gui=NONE cterm=NONE
