@@ -1,3 +1,4 @@
+syntax on
 colorscheme chill
 set nowrap
 set number
