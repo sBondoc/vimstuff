@@ -73,12 +73,12 @@ hi WildMenu         guisp=NONE guifg=#3f3f3f guibg=#bfbf00 ctermfg=238  ctermbg=
 
 hi Normal     guisp=NONE guifg=#bfbfbf guibg=#000000 ctermfg=250 ctermbg=16   gui=NONE cterm=NONE
 hi Comment    guisp=NONE guifg=#7f7f7f guibg=NONE    ctermfg=244 ctermbg=NONE gui=NONE cterm=NONE
-hi Constant   guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
+hi Constant   guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guisp=NONE guifg=#bfbfbf guibg=NONE    ctermfg=250 ctermbg=NONE gui=NONE cterm=NONE
 hi Statement  guisp=NONE guifg=#00bf00 guibg=NONE    ctermfg=34  ctermbg=NONE gui=NONE cterm=NONE
-hi PreProc    guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
+hi PreProc    guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi Type       guisp=NONE guifg=#007fbf guibg=NONE    ctermfg=31  ctermbg=NONE gui=NONE cterm=NONE
-hi Special    guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
+hi Special    guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi Underlined guisp=NONE guifg=#bfbfbf guibg=NONE    ctermfg=250 ctermbg=NONE gui=NONE cterm=NONE
 hi Ignore     guisp=NONE guifg=#7f7f7f guibg=NONE    ctermfg=244 ctermbg=NONE gui=NONE cterm=NONE
 hi Error      guisp=NONE guifg=#bfbfbf guibg=#7f0000 ctermfg=250 ctermbg=88   gui=NONE cterm=NONE
@@ -98,16 +98,16 @@ hi Label          guisp=NONE guifg=#00bf00 guibg=NONE    ctermfg=34  ctermbg=NON
 hi Operator       guisp=NONE guifg=#00bf00 guibg=NONE    ctermfg=34  ctermbg=NONE gui=NONE cterm=NONE
 hi Keyword        guisp=NONE guifg=#00bf00 guibg=NONE    ctermfg=34  ctermbg=NONE gui=NONE cterm=NONE
 hi Exception      guisp=NONE guifg=#00bf00 guibg=NONE    ctermfg=34  ctermbg=NONE gui=NONE cterm=NONE
-hi Include        guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
-hi Define         guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
-hi Macro          guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
-hi PreCondit      guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
+hi Include        guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
+hi Define         guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
+hi Macro          guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
+hi PreCondit      guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi StorageClass   guisp=NONE guifg=#00bf7f guibg=NONE    ctermfg=36  ctermbg=NONE gui=NONE cterm=NONE
 hi Structure      guisp=NONE guifg=#00bfbf guibg=NONE    ctermfg=37  ctermbg=NONE gui=NONE cterm=NONE
 hi Typedef        guisp=NONE guifg=#00bf00 guibg=NONE    ctermfg=34  ctermbg=NONE gui=NONE cterm=NONE
-hi SpecialChar    guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
-hi Tag            guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
+hi SpecialChar    guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
+hi Tag            guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi Delimiter      guisp=NONE guifg=#7f7f7f guibg=#7f0000 ctermfg=244 ctermbg=88   gui=NONE cterm=NONE
-hi SpecialComment guisp=NONE guifg=#bf00bf guibg=NONE    ctermfg=127 ctermbg=NONE gui=NONE cterm=NONE
+hi SpecialComment guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi Debug          guisp=NONE guifg=#7f7f7f guibg=NONE    ctermfg=244 ctermbg=NONE gui=NONE cterm=NONE
 
