@@ -102,8 +102,8 @@ hi Include        guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NON
 hi Define         guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi Macro          guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi PreCondit      guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
-hi StorageClass   guisp=NONE guifg=#00bf7f guibg=NONE    ctermfg=36  ctermbg=NONE gui=NONE cterm=NONE
-hi Structure      guisp=NONE guifg=#00bfbf guibg=NONE    ctermfg=37  ctermbg=NONE gui=NONE cterm=NONE
+hi StorageClass   guisp=NONE guifg=#007fbf guibg=NONE    ctermfg=31  ctermbg=NONE gui=NONE cterm=NONE
+hi Structure      guisp=NONE guifg=#007fbf guibg=NONE    ctermfg=31  ctermbg=NONE gui=NONE cterm=NONE
 hi Typedef        guisp=NONE guifg=#00bf00 guibg=NONE    ctermfg=34  ctermbg=NONE gui=NONE cterm=NONE
 hi SpecialChar    guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
 hi Tag            guisp=NONE guifg=#7f00bf guibg=NONE    ctermfg=91  ctermbg=NONE gui=NONE cterm=NONE
